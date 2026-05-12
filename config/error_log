@@ -1,0 +1,16 @@
+[29-Mar-2026 16:39:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/digitxic/ths.digitalnawab.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitxic/ths.digitalnawab.com/config/app.php on line 16
+[29-Mar-2026 16:39:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/digitxic/ths.digitalnawab.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/digitxic/ths.digitalnawab.com/config/services.php on line 18
+[29-Mar-2026 16:39:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/digitxic/ths.digitalnawab.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitxic/ths.digitalnawab.com/config/app.php on line 16
+[29-Mar-2026 16:39:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/digitxic/ths.digitalnawab.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/digitxic/ths.digitalnawab.com/config/services.php on line 18
